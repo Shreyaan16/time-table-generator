@@ -707,6 +707,7 @@ def main():
     st.title("Institute Level Timetable Generator")
 
     courses_file = st.file_uploader("Upload CSV for subjects:", type="csv")
+    
     faculty_file = st.file_uploader("Upload CSV for faculty:", type="csv")
     rooms_file = st.file_uploader("Upload CSV for room and capacity:", type="csv")
 
@@ -714,6 +715,18 @@ def main():
         courses_df = pd.read_csv(courses_file)
         faculty_df = pd.read_csv(faculty_file)
         rooms_df = pd.read_csv(rooms_file)
+
+        st.write("The columns of the dataframe are: ")
+
+        st.write('\nSubjects-csv')
+        st.dataframe(courses_df)
+
+        st.write('\nFaculty-csv')
+        st.dataframe(faculty_df)
+
+
+        st.write('\nRooms-csv')
+        st.dataframe(rooms_df)
 
         operation = st.selectbox(
             "Select Operation", 
@@ -763,6 +776,12 @@ def main():
                         for section in generator.sections[branch][semester]:
                             st.write(f"Timetable for {section.name}")
                             generator.visualize_timetable(section.name, save_as_image=save_images)
+    footer_html = """<div style='text-align: center; font-family: Arial, sans-serif; color: #999; padding-top: 20px;'>
+        <p style='font-size: 14px; margin: 0;'>Made with ❤ during the DataZen Hackathon</p>
+        <p style='font-size: 16px; margin: 5px 0;'>By Team Outliers</p>
+        <p style='font-size: 14px; margin: 0;'>Including Purval Bhude, Shreyaan Loke, and Dhruv Patel</p>
+        </div>"""
+    st.markdown(footer_html, unsafe_allow_html=True)
 
 if __name__ == "__main__":
     main()
