@@ -1,0 +1,96 @@
+Semester,Course Code,Course Name,Faculty Members,Credits,Branch
+1,CS0101,Discrete Structures and Matrix Algebra,"Dr. Narendra Singh Yadav, Dr. Mainak Thakur",4,CSE
+1,CS0100,Computer Programming,"Dr. Viswanath P, Dr. Odelu Vanga, Dr. Santosh A, Dr. Neha Agarwal",4,CSE
+1,EC0100,Digital Logic Design,"Dr. Sivaprasad K, Dr. Raja Vara Prasad, Dr. Ramesh Kumar, Dr. Achintya Sarkar, Dr. Paul Braineard",4,CSE
+1,CS0102,Overview of Computers Workshop,"Dr. Bheemappa H, Dr. Lokendra Chauhan, Dr. Piyush Joshi, Dr. Priyanka Dwivedi, Dr. Abhishek Hazra, Dr. Rajeev Kumar, Dr. Bulla Rajesh",4,CSE
+1,CS0101,Discrete Structures and Matrix Algebra,"Dr. Narendra Singh Yadav, Dr. Mainak Thakur",4,ECE
+1,CS0100,Computer Programming,"Dr. Viswanath P, Dr. Odelu Vanga, Dr. Santosh A, Dr. Neha Agarwal",4,ECE
+1,EC0100,Digital Logic Design,"Dr. Sivaprasad K, Dr. Raja Vara Prasad, Dr. Ramesh Kumar, Dr. Achintya Sarkar, Dr. Paul Braineard",4,ECE
+1,CS0102,Overview of Computers Workshop,"Dr. Bheemappa H, Dr. Lokendra Chauhan, Dr. Piyush Joshi, Dr. Priyanka Dwivedi, Dr. Abhishek Hazra, Dr. Rajeev Kumar, Dr. Bulla Rajesh",4,ECE
+1,CS0101,Discrete Structures and Matrix Algebra,"Dr. Narendra Singh Yadav, Dr. Mainak Thakur",4,AIDS
+1,CS0100,Computer Programming,"Dr. Viswanath P, Dr. Odelu Vanga, Dr. Santosh A, Dr. Neha Agarwal",4,AIDS
+1,EC0100,Digital Logic Design,"Dr. Sivaprasad K, Dr. Raja Vara Prasad, Dr. Ramesh Kumar, Dr. Achintya Sarkar, Dr. Paul Braineard",4,AIDS
+1,CS0102,Overview of Computers Workshop,"Dr. Bheemappa H, Dr. Lokendra Chauhan, Dr. Piyush Joshi, Dr. Priyanka Dwivedi, Dr. Abhishek Hazra, Dr. Rajeev Kumar, Dr. Bulla Rajesh",4,AIDS
+2,CS0103,Probability and Statistics,"Dr. Mainak Thakur, Mrs. Srivalli Kiranmai, Dr. R Selvi, Dr. K. Venkatadri",4,CSE
+2,CS0104,Data Structures and Algorithms,"Dr. Priyambada S, Dr. Sreeja, Dr. Manipriya, Dr. Chandramohan D, Dr. Abhishek Hazra",4,CSE
+2,EC0101,Signals and Systems,"Dr. Achintya Sarkar, Dr. Anish Chand T, Dr. Kandimalla Divyabramham, Dr. Lokendra Chouhan",4,CSE
+2,CS0200,Computer Architecture,"Dr. Santosh, Dr. Neha, Dr. Kartick Sutradhar, Dr. Bheemappa",4,CSE
+2,CS0103,Probability and Statistics,"Dr. Mainak Thakur, Mrs. Srivalli Kiranmai, Dr. R Selvi, Dr. K. Venkatadri",4,AIDS
+2,CS0104,Data Structures and Algorithms,"Dr. Priyambada S, Dr. Sreeja, Dr. Manipriya, Dr. Chandramohan D, Dr. Abhishek Hazra",4,AIDS
+2,EC0101,Signals and Systems,"Dr. Achintya Sarkar, Dr. Anish Chand T, Dr. Kandimalla Divyabramham, Dr. Lokendra Chouhan",4,AIDS
+2,CS0200,Computer Architecture,"Dr. Santosh, Dr. Neha, Dr. Kartick Sutradhar, Dr. Bheemappa",4,AIDS
+2,CS0103,Probability and Statistics,"Dr. Mainak Thakur, Mrs. Srivalli Kiranmai, Dr. R Selvi, Dr. K. Venkatadri",4,ECE
+2,CS0104,Data Structures and Algorithms,"Dr. Priyambada S, Dr. Sreeja, Dr. Manipriya, Dr. Chandramohan D, Dr. Abhishek Hazra",4,ECE
+2,EC0101,Signals and Systems,"Dr. Achintya Sarkar, Dr. Anish Chand T, Dr. Kandimalla Divyabramham, Dr. Lokendra Chouhan",4,ECE
+2,EC0200,Basic Electronic Circuits,Dr. Kandimalla Divyabramham,4,ECE
+3,CS107,Object Oriented Programming,"Dr. Priyambada Subudhi, Dr. Bulla Rajesh, Dr. Arun PV, Dr. Pavan Kumar BN",4,CSE
+3,CS107,Object Oriented Programming,"Dr. Priyambada Subudhi, Dr. Bulla Rajesh, Dr. Arun PV, Dr. Pavan Kumar BN",4,ECE
+3,CS107,Object Oriented Programming,"Dr. Priyambada Subudhi, Dr. Bulla Rajesh, Dr. Arun PV, Dr. Pavan Kumar BN",4,ECE
+3,CS106,"Real Analysis, Numerical Analysis, and Calculus","Mrs. Srivalli K, Dr. R Selvi",4,CSE
+3,CS106,"Real Analysis, Numerical Analysis, and Calculus","Mrs. Srivalli K, Dr. R Selvi",4,ECE
+3,CS106,"Real Analysis, Numerical Analysis, and Calculus","Mrs. Srivalli K, Dr. R Selvi",4,AIDS
+3,CS0201,Advanced Data Structures and Algorithms,"Dr. Chandra Mohan D, Dr. Rakesh Kumar Sanodiya, Dr. Annushree Bablani",4,CSE
+3,CS0201,Advanced Data Structures and Algorithms,"Dr. Chandra Mohan D, Dr. Rakesh Kumar Sanodiya, Dr. Annushree Bablani",4,AIDS
+3,CS0203,Database Management Systems,"Dr. S.Manipriya, Dr. Priyambada Subudhi, Dr. Kartick Sutradhar",4,CSE
+3,CS0203,Database Management Systems,"Dr. S.Manipriya, Dr. Priyambada Subudhi, Dr. Kartick Sutradhar",4,AIDS
+3,CS0203,Operating Systems,"Dr. S.Manipriya, Dr. Santosh A, Dr. Mallikarjuna Reddy",4,CSE
+3,ML,Machine Learning,Dr. Pavan Kumar Perepu,4,AIDS
+3,EC0202,Circuits and Network Analysis,Dr. Rajeev Kumar,4,ECE
+3,EC0201,Control Systems,"Dr. Hrishikesh Venkatraman, Dr. Divyabramham Kandimalla",4,ECE
+3,EC0203,Embedded Systems,Dr. Raja Vara Prasad,4,ECE
+4,EC0102,Computer and Communication Networks,"Dr. Nikhil Tripathi, Dr. Raja Vara Prasad Y, Dr. Rajeev Kumar",4,ECE
+4,EC0102,Computer and Communication Networks,"Dr. Nikhil Tripathi, Dr. Raja Vara Prasad Y, Dr. Rajeev Kumar",4,CSE
+4,CS0600,Fundamentals of Full Stack Development,"Dr. Mrinmoy, Dr. Bulla Rajesh, Dr. Odelu Vanga",4,CSE
+4,CS0110,Artificial Intelligence,"Dr. Girish G N, Dr. Piyush Joshi",4,CSE
+4,CS0204,Theory of Computation,"Dr. Kamalakanta Sethi, Dr. P Viswanath",4,CSE
+4,EC0204,Fundamentals of Communication,Dr. Rajeev Kumar,4,ECE
+4,EC0206,Electromagnetics and Transmission Lines,Dr. Lokendra Chouhan,4,ECE
+4,EC0110,Analog Circuits,Dr. Paul B,4,ECE
+5,CS0601,Framework Driven Front-End Development,"Dr. Nikhil Tripathi, Dr. Kamalakantha Sethi, Dr. Himangshu Sarma",4,CSE
+5,CS0301,Cloud Computing,"Dr. Neha Agarwal, Dr. Bheemappa Halavar",4,CSE
+5,BTA,Blockchain Technologies and its Applications,Dr. Mallikarjuna Reddy,4,CSE
+5,CV,Computer Vision,Dr. Mrinmoy Ghorai,4,AIDS
+5,CS0309,Introduction to Cyber Security,"Dr. Kamalakantha Sethi, Dr. Nikhil Tripathi",4,CSE
+5,CS0311,Natural Language Processing,Dr. Himangshu Sarma,4,AIDS
+5,CS0310,Machine Learning,"Dr. Chandra Mohan D, Dr. Rakesh Kumar Sanodiya",4,CSE
+5,CS0308,Information Retrieval,Dr. Rajendra Prasath,4,AIDS
+5,CS0305,Data Mining,Dr. Viswanath P,4,AIDS
+5,CS0303,Computer Graphics and Multimedia,Dr. Mrinmoy Ghorai,4,AIDS
+5,EC0208,Introduction to VLSI,Dr. Ramesh Kumar V,4,ECE
+5,EC0207,Digital Signal Processing,Dr. Anish Chand T,4,ECE
+5,EC0310,Pattern Recognition,Dr. Anish Chand T,4,ECE
+5,EC0311,Wireless Communication,Dr. Lokendra Chauhan,4,ECE
+5,EC0305,Microprocessors and Microcontrollers,Dr. Achintya Kumar Sarkar,4,ECE
+6,CS0602,Webservices and Backend Development,"Dr. Dorsala Mallikarjun Reddy, Dr. Himangshu Sarma, Dr. Pavan Kumar B N",4,CSE
+6,CS0317,Graph Theory and Applications,Dr. S.Manipriya,4,CSE
+6,CS0316,Robotic Intelligence,Dr. Rakesh Kumar Sanodia,4,CSE
+6,EC0300,Advanced AVLSI,Dr. Ramesh Kumar,4,ECE
+6,EC0313,Hardware Description Language,Dr. Ramesh Kumar,4,ECE
+6,CS0405,Geospatial Technologies and Applications,Dr. Arun P V,4,CSE
+6,EC0403,Smart Manufacturing,"Dr. Priyanka Dwivedi, Dr. Hrishikesh V Raman, Dr. Raja Vara Prasad",4,ECE
+6,CS3300,Advanced Data Analytics,Dr. Mainak Thakur,4,AIDS
+6,CS3302,Python for Data Science,Dr. Sreeja S R,4,AIDS
+6,CS3100,Deep Learning,Dr. Rakesh Kumar Sanodia,4,AIDS
+6,OB,Organizational Behaviour,Visiting Faculty,4,AIDS
+7,FQC,Fundamentals of Quantum Computing,Dr. Kartick Sutradhar,4,CSE
+7,CS0319,Virtual and Augmented Reality,Dr. Pavankumar BN,4,CSE
+7,IoT,Internet of Things,Dr. Abhishek Hazara,4,CSE
+7,EC0302,Digital System Design,Dr. Sivaprasad K,4,ECE
+7,EC0307,Microwave Engineering and Radar Systems,Dr. Divyabramham Kandimalla,4,ECE
+7,CS0402,Cryptography,Dr. Odelu Vanga,4,CSE
+7,CS0403,Digital Image Processing,Dr. Piyush Joshi,4,AIDS
+7,CS3301,Big Data Analytics,Dr. Rajendra Prasath,4,AIDS
+7,CS3100,Soft Computing & Evolutionary AI,Dr. Annushree Bablani,4,AIDS
+7,RL,Reinforcement Learning,Dr. Arun PV,4,AIDS
+7,EC0512,Innovation and Entrepreneurship,Visiting Faculty,4,ECE
+7,EC0507,Skills for Employability,Visiting Faculty,4,ECE
+8,EC0309,Opto Nano Electronics,Dr. K Siva Prasad,4,ECE
+8,EC0402,Wireless Networks,Dr. Hrishikesh V Raman,4,ECE
+8,EC0306,Micro Sensor and Actuators,Dr. Priyanka Dwivedi,4,AIDS
+8,EC0312,Power Electronics,Dr. Paul B,4,ECE
+8,CB,Computational Biology,Dr. Santhosh A,4,CSE
+8,IIoT,Industrial Internet of Things,Dr. Abhishek Hazra,4,CSE
+8,SDN,Software Defined Networks,Dr. Neha Agarwal,4,CSE
+8,MEPF,Macro Economics and Personal Finance,Visiting Faculty,4,AIDS
+8,AIES,AI & Ethics,Visiting Faculty,4,AIDS
+
