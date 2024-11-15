@@ -7,6 +7,7 @@ import matplotlib.pyplot as plt
 import textwrap
 from collections import defaultdict
 import math
+import streamlit.components.v1 as components
 
 # [Previous constants and classes remain the same until the TimeTableGenerator class]
 DAYS = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
@@ -776,6 +777,18 @@ def main():
                         for section in generator.sections[branch][semester]:
                             st.write(f"Timetable for {section.name}")
                             generator.visualize_timetable(section.name, save_as_image=save_images)
+    # Set a session state variable to track whether the chatbot should be shown
+    if "chatbot_visible" not in st.session_state:
+        st.session_state.chatbot_visible = False
+
+    # Create a button to toggle the chatbot visibility
+    if st.button("Open Chatbot"):
+        st.session_state.chatbot_visible = not st.session_state.chatbot_visible
+
+    # Show the chatbot in an iframe if the state is True
+    if st.session_state.chatbot_visible:
+        chatbot_url = "https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2024/11/15/12/20241115120200-NE9Z29E6.json"
+        components.html(f'<iframe src="{chatbot_url}" width="100%" height="600px"></iframe>', height=600)
     footer_html = """<div style='text-align: center; font-family: Arial, sans-serif; color: #999; padding-top: 20px;'>
         <p style='font-size: 14px; margin: 0;'>Made with ❤ during the DataZen Hackathon</p>
         <p style='font-size: 16px; margin: 5px 0;'>By Team Outliers</p>
